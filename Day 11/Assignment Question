@@ -1,0 +1,6 @@
+Based on the learning today about correlation. Find out correlation between attrition and other
+variables Like Age, Monthly Income etc.
+Form the hypothesis find correlation r and p value using python and specified module and
+methods and give the inference according to your results and state which hypothesisis correct
+and why .
+Data set: It is same as that given on day 7 of Company XYZ
