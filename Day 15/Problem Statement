@@ -1,0 +1,49 @@
+
+1. Create a 3x3x3 array with random values¶
+In [ ]:
+
+2.Create a 5x5 matrix with values 1,2,3,4 just below the diagonal
+In [ ]:
+
+3.Create a 8x8 matrix and fill it with a checkerboard pattern
+In [ ]:
+
+4. Normalize a 5x5 random matrix
+In [ ]:
+
+5. How to find common values between two arrays?
+In [ ]:
+
+6.How to get the dates of yesterday, today and tomorrow?
+In [ ]:
+
+7. Consider two random array A and B, check if they are equal
+In [ ]:
+
+8.Create random vector of size 10 and replace the maximum value by 0
+In [ ]:
+
+9. How to print all the values of an array?
+In [ ]:
+
+10.Subtract the mean of each row of a matrix
+In [ ]:
+
+11.Consider a given vector, how to add 1 to each element indexed by a second vector (be careful with repeated indices)?
+In [ ]:
+
+In [ ]:
+
+12.How to get the diagonal of a dot product?
+In [ ]:
+
+13.How to find the most frequent value in an array?
+In [ ]:
+
+14.How to get the n largest values of an array
+In [ ]:
+
+15.How to create a record array from a regular array?
+In [ ]:
+
+In [ ]:
